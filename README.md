@@ -45,7 +45,7 @@ netlify link
 4. Then, run the Astro.js development server via Netlify CLI:
 
 ```
-netlify dev
+netlify dev harold carvalho.com.br
 ```
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
